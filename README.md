@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7B500&center=true&vCenter=true&width=600&height=50&lines=AI+Researcher+%2F+Developer;Data+Scientist+%2F+Open-Source+Contributor)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7B500&center=true&vCenter=true&width=600&height=50&lines=Lead Data Specialist++%2F+Developer;Data+Scientist+%2F+Freelancer+Researcher)
 
 As a **Data Scientist** and **Machine Learning Engineer**, my professional ethos is anchored in leveraging analytical prowess to drive data-driven decisions and innovation. My industry experience is highlighted by:
 
