@@ -58,6 +58,16 @@ I also bring experience in **IT education**, allowing me to distill complex tech
 
 ---
 
+### 🎓 Associate Faculty (Level 4)  
+**Technological Institute of the Philippines – Manila** | *Jun 2009 – Jul 2024*  
+*Manila, Philippines*
+
+- Taught **Computer Science** and **Tech-Related courses**, focusing on **Data Science**, to over 40 students per semester with an average course rating of **93%**.
+- Integrated tools such as **Java**, **HTML/CSS**, **JavaScript**, **Python**, **SQL**, **Excel**, and **Power BI** in instruction and project delivery.
+- Supervised and led **50+ thesis/capstone projects** involving real-world data analysis (datasets over 400MB), resulting in high-impact, actionable insights for case studies.
+
+---
+
 ## 🧰 Tools & Technologies
 
 - Programming: `Python`, `SQL`, `Bash`
