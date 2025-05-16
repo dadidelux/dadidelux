@@ -1,0 +1,32 @@
+{
+    "servers": {
+        "filesystem": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@modelcontextprotocol/server-filesystem",
+                "C:\\Users\\dadidelux\\Desktop",
+                "C:\\Users\\dadidelux\\Desktop\\AIFolder"
+            ],
+            "type": "stdio",
+            "env": {}
+        },
+        "Context7": {
+        "type": "stdio",
+        "command": "npx",
+        "args": ["-y", "@upstash/context7-mcp@latest"]
+        }
+    },
+    "inputs": [
+        {
+            "id": "baseDirectory",
+            "type": "promptString",
+            "description": "Enter the base directory path for the server"
+        },
+        {
+            "id": "allowedDirectory",
+            "type": "promptString",
+            "description": "Enter the path to another allowed directory"
+        }
+    ]
+}
