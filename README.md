@@ -153,6 +153,7 @@ I also bring experience in **IT education**, allowing me to distill complex tech
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-000000?style=for-the-badge&logo=clickhouse&logoColor=white)
 
 ## 🎨 Design & Creative Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
