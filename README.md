@@ -155,6 +155,9 @@ I also bring experience in **IT education**, allowing me to distill complex tech
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-000000?style=for-the-badge&logo=clickhouse&logoColor=white)
 
+## 🗄️ ERP 
+![Acumatica](https://img.shields.io/badge/ERP-Acumatica-blue?logo=acumatica&logoColor=white)
+
 ## 🎨 Design & Creative Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
