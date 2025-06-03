@@ -185,7 +185,6 @@ I also bring experience in **IT education**, allowing me to distill complex tech
 #### 📝 Datacamp Certification
 [DataCamp Certificate: DAA0013703511023](https://www.datacamp.com/certificate/DAA0013703511023)
 <img src="image/DAA0013703511023_datacamp.png" alt="DataCamp Image" width="300"/>
-![DataCamp Image](image/DAA0013703511023_datacamp.png)
 
 ---
 
