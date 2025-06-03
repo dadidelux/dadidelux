@@ -183,8 +183,9 @@ I also bring experience in **IT education**, allowing me to distill complex tech
 ![](https://github-contributor-stats.vercel.app/api?username=dadidelux&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 #### 📝 Datacamp Certification
-[DataCamp Certificate: DAA0013703511023](https://www.datacamp.com/certificate/DAA0013703511023)
-<img src="image/DAA0013703511023_datacamp.png" alt="DataCamp Image" width="300"/>
+<a href="https://www.datacamp.com/certificate/DAA0013703511023" target="_blank">
+  <img src="image/DAA0013703511023_datacamp.png" alt="DataCamp Certificate" width="300"/>
+</a>
 
 ---
 
