@@ -182,6 +182,10 @@ I also bring experience in **IT education**, allowing me to distill complex tech
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dadidelux&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+#### 📝 Datacamp Certification
+![Datacamp - Data Analyst Associate](https://www.datacamp.com/certificate/DAA0013703511023)
+
+
 ---
 
 <picture>
