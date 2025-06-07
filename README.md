@@ -16,7 +16,7 @@ I also bring experience in **IT education**, allowing me to distill complex tech
 
 ---
 
-## 💼 Experience
+## 💼 Experiences
 
 ### 📊 Data Scientist  
 **Bravo Fit Australia** | *Apr 2024 – Mar 2025*
