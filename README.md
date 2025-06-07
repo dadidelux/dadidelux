@@ -186,6 +186,7 @@ I also bring experience in **IT education**, allowing me to distill complex tech
 <a href="https://www.datacamp.com/certificate/DAA0013703511023" target="_blank">
   <img src="image/DAA0013703511023_datacamp.png" alt="DataCamp Certificate" width="300"/>
 </a>
+![Meme](https://i.imgflip.com/9wjzf2.jpg)
 
 ---
 
