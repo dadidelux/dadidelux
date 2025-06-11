@@ -167,6 +167,9 @@ I also bring experience in **IT education**, allowing me to distill complex tech
 ## 🧠 Productivity
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+## 🏧 Automation Tools
+[![Make.com](https://img.shields.io/badge/Make.com-Integrations-purple?logo=make&logoColor=white&style=flat)](https://www.make.com/)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dadidelux&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -181,9 +184,6 @@ I also bring experience in **IT education**, allowing me to distill complex tech
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dadidelux&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-#### 🏧 Automation Tools
-[![Make.com](https://img.shields.io/badge/Make.com-Integrations-purple?logo=make&logoColor=white&style=flat)](https://www.make.com/)
 
 #### 📝 Datacamp Certification
 <a href="https://www.datacamp.com/certificate/DAA0013703511023" target="_blank">
