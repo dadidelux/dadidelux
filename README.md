@@ -169,7 +169,7 @@ I also bring experience in **IT education**, allowing me to distill complex tech
 
 ## 🏧 Automation Tools
 [![Make.com](https://img.shields.io/badge/Make.com-Integrations-purple?logo=make&logoColor=white&style=flat)](https://www.make.com/)
-
+[![n8n](https://img.shields.io/badge/n8n-automation-green?logo=n8n&logoColor=white)](https://n8n.io/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dadidelux&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
