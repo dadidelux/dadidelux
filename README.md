@@ -15,7 +15,7 @@ As a **Data Scientist** and **Machine Learning Engineer**, my professional ethos
 I also bring experience in **IT education**, allowing me to distill complex technical concepts into actionable insights. This fusion of hands-on development and insightful instruction positions me to contribute meaningfully to cutting-edge projects and the evolution of intelligent systems in the business sector.
 
 ---
-
+## Updated as of Mar 2025
 ## 💼 Experiences
 
 ### 📊 Data Scientist  
